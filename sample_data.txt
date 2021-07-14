@@ -1,6 +1,6 @@
 Photo identification,82,12,5,99
 Car driver license (C-Class),71,4,14,89
-Working at heights, 112,15,3,130
+Working at heights,112,15,3,130
 Certificate IV - Mechanical fitter,38,2,6,46
 Certificate III - Welder,62,14,3,79
 Heavy vehicle license,82,12,26,120
