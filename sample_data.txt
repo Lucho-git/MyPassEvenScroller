@@ -4,3 +4,6 @@ Working at heights,112,15,3,130
 Certificate IV - Mechanical fitter,38,2,6,46
 Certificate III - Welder,62,14,3,79
 Heavy vehicle license,82,12,26,120
+Yellow Bus license,93,0,2,95
+Red Bus license,55,10,0,65
+Blue Bus license,0,20,34,54
