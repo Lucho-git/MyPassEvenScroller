@@ -7,3 +7,4 @@ Heavy vehicle license,82,12,26,120
 Yellow Bus license,93,0,2,95
 Red Bus license,55,10,0,65
 Blue Bus license,0,20,34,54
+Shiny Bus license,125,0,0,125
